@@ -14,7 +14,7 @@ Unlike standard chatbots, this agent uses a sophisticated reasoning loop to ensu
 - **Dynamic Tool Use:** A modular eligibility engine that can be scaled to hundreds of schemes.
 
 ##  How to Run
-1. **Clone the Repo:** `git clone []`
+1. **Clone the Repo:** `git clone [https://github.com/Shrutir15/hindi-ai-agent-resolution.git]`
 2. **Install Dependencies:** `pip install -r requirements.txt`
 3. **Set API Key:** Create a `.env` file and add `GROQ_API_KEY=your_key_here`.
 4. **Launch:** Run `python main_agent.py`.
